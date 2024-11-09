@@ -1,1 +1,19 @@
 /* Start coding here */
+.main-container {
+    background-color: black;
+    width: 90vw;
+    height: 90vh;
+    border: 16px solid lightgrey;
+    padding: 16px;
+}
+.content {
+    border: 24px solid crimson;
+    box-sizing: border-box;
+    background-color: khaki;
+    height: 100%;
+}
+.head-content {
+    text-align: center;
+    font-size: 72px;
+    margin: 30px;
+}

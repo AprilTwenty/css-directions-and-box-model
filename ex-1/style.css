@@ -1,1 +1,9 @@
 /* Start coding here */
+.content {
+    width: 40vw;
+    height: 35vh;
+    background-color: lightgrey;
+    padding: 25px;
+    border: 2px solid black;
+    margin: 25px;
+}
